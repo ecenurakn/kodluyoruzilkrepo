@@ -34,5 +34,5 @@ kod.
 https://github.com/ecenurakn/kodluyoruzilkrepo/blob/main/LICENSE
 
 ## Kodluyoruz
-https://app.patika.dev/paths
+https://www.patika.dev/tr
 
